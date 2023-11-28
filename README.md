@@ -2,6 +2,8 @@
 
 A movie recommendation system is a technology or algorithm that suggests movies to users based on their preferences, historical choices, and various other factors. These systems aim to provide personalized recommendations to enhance user experience and help them discover movies they might enjoy.
 
+These are the following steps that are carried out in the recommendation system.
+
 
 <h2>Data Collection</h2>Gather a large dataset of movie-related information, including details like movie titles, genres, release dates, ratings, user reviews, cast and crew information, etc. Datasets like MovieLens, IMDb, or TMDB can be used for this purpose.
 
